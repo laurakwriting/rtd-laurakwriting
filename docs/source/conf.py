@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Laura Klappenbach | laurakwriting.com'
-copyright = '2022, LauraK'
+project = 'laurakwriting'
+copyright = '2022, Laura Klappenbach | https://laurakwriting.com'
 author = 'LauraK'
 
 release = '0.1'
