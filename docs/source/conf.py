@@ -41,5 +41,5 @@ html_theme_options = {
     'sticky_navigation': False,
     'navigation_depth': 2,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': True
 }
