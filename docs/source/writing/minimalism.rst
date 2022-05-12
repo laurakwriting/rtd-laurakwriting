@@ -1,4 +1,4 @@
-Task based writing
+Minimalism
 =====
 
 
