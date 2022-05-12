@@ -32,6 +32,9 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Contents
+--------
 .. toctree::
 
    writint/taskbased
