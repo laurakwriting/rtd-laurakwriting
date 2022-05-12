@@ -1,4 +1,4 @@
-Minimalism
+Minimalist writing
 =====
 
 
