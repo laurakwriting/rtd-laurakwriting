@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Laura Klappenbach'
+project = 'Laura Klappenbach | laurakwriting.com'
 copyright = '2022, LauraK'
 author = 'LauraK'
 
