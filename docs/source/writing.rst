@@ -37,4 +37,4 @@ Contents
 --------
 .. toctree::
 
-   writint/taskbased
+   writing/taskbased
