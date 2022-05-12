@@ -37,7 +37,7 @@ epub_show_urls = 'footnote'
 # -- Options for HTML theme
 html_theme_options = {
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 2,
     'includehidden': True,
