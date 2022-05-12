@@ -1,4 +1,4 @@
-Writing
+Minimalist writing
 =====
 
 .. _installation:
