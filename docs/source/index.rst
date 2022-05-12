@@ -18,6 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    writing
+   portfolio
