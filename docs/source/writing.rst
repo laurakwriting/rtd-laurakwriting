@@ -36,5 +36,6 @@ For example:
 Contents
 --------
 .. toctree::
-
+   :numbered:
+   
    writing/taskbased
