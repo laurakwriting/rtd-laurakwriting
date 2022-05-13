@@ -1,4 +1,4 @@
-Animal traits
+Animal Traits
 =====
 
 
