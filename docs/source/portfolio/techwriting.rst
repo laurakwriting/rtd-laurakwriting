@@ -9,6 +9,4 @@ Praesent vitae ipsum vitae nisl iaculis vulputate. Integer vel justo mattis just
 
 .. toctree::
    
-   animaltraits
-   lifeonearth
-   mammals
+   
