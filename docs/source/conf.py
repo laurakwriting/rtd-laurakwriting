@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'laurakwriting'
-copyright = '2022, Laura Klappenbach | https://laurakwriting.com'
+copyright = '2022, Laura Klappenbach'
 author = 'LauraK'
 
 release = '0.1'
