@@ -1,4 +1,4 @@
-Diagram: Animal traits
+Animal traits
 =====
 
 

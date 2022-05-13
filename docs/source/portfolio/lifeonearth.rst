@@ -1,4 +1,4 @@
-Diagram: Life on Earth
+History of Life on Earth
 =====
 
 
