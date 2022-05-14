@@ -13,3 +13,4 @@ Praesent vitae ipsum vitae nisl iaculis vulputate. Integer vel justo mattis just
    
    portfolio/diagrams
    portfolio/techwriting
+   portfolio/sciencewriting
