@@ -10,11 +10,11 @@ Praesent vitae ipsum vitae nisl iaculis vulputate. Integer vel justo mattis just
 
 See also: `laurakwriting.com <https://laurakwriting.com>`_
 
-Check out the :doc:`portfolio` section for further information.
+For samples of my writing, see the :doc:`portfolio` section.
 
 .. note::
 
-   This project is under active development.
+   This project is under development.
 
 .. toctree::
    :hidden:
