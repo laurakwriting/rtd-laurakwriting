@@ -16,3 +16,10 @@ Check out the :doc:`portfolio` section for further information.
 
    This project is under active development.
 
+Contents
+--------
+
+.. toctree::
+
+   writing
+   portfolio
