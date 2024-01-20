@@ -8,6 +8,7 @@ Morbi sit amet massa velit. Integer et feugiat purus. Etiam non lorem at libero 
 Praesent vitae ipsum vitae nisl iaculis vulputate. Integer vel justo mattis justo viverra congue. Vestibulum semper dapibus nisl condimentum interdum. Donec lobortis ut dui eu blandit. Integer mattis ante leo, id tincidunt nibh rhoncus quis. Cras fermentum id metus id posuere. Phasellus enim turpis, facilisis et nulla a, pharetra rutrum massa. Donec eu leo mi. Vivamus mollis nibh eget ex commodo, vel consequat lacus commodo. Etiam feugiat eros ut justo mollis varius.
 
 .. toctree::
+   :hidden:
    
    writing/structured
    writing/taskbased

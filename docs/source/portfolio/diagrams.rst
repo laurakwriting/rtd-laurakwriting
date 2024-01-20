@@ -6,8 +6,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie tortor 
 
 Praesent vitae ipsum vitae nisl iaculis vulputate. Integer vel justo mattis justo viverra congue. Vestibulum semper dapibus nisl condimentum interdum. Donec lobortis ut dui eu blandit. Integer mattis ante leo, id tincidunt nibh rhoncus quis. Cras fermentum id metus id posuere. Phasellus enim turpis, facilisis et nulla a, pharetra rutrum massa. Donec eu leo mi. Vivamus mollis nibh eget ex commodo, vel consequat lacus commodo. Etiam feugiat eros ut justo mollis varius.
 
-
 .. toctree::
+   :hidden:
    
    animaltraits
    lifeonearth
