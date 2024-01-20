@@ -41,6 +41,5 @@ html_theme_options = {
     'sticky_navigation': False,
     'navigation_depth': 3,
     'includehidden': True,
-    'titles_only': True,
-    'sidebarbgcolor':#353131
+    'titles_only': True
 }
