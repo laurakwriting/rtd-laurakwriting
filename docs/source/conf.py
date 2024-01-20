@@ -42,5 +42,5 @@ html_theme_options = {
     'navigation_depth': 3,
     'includehidden': True,
     'titles_only': True,
-    'sidebarbgcolor':#353131,
+    'sidebarbgcolor':#353131
 }
